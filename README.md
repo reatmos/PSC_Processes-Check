@@ -1,13 +1,11 @@
-# PSL_ProcessList
-Runnnig Processes Scan Program
+# PSC_Processes-Check
+Runnnig Processes Check(Scan) Program
 
 ====================
 
 [Project File(sln) Requirements]
-1. QT
-2. QT Visual Studio Extension
-3. Openssl
-4. Python
+1. Openssl
+2. Python
 
 ====================
 
