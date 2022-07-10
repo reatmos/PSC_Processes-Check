@@ -1,6 +1,11 @@
 # PSC_Processes-Check
 Runnnig Processes Check(Scan) Program
 
+[How to use]
+1. Run CreatePSL.exe
+2. Enter your Virustotal API
+3. Run Process.exe
+
 ====================
 
 [Project File(sln) Requirements]
